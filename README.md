@@ -165,5 +165,5 @@ public class TestController {
 ```shell
 $ curl localhost:8080/test
 
-pwd:username
+127.0.0.1:3306
 ```
