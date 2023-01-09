@@ -1,0 +1,10 @@
+
+aws:
+  secretsmanager:
+    name: schooldevops/dev
+    prefix: /myproject
+
+cloud:
+  aws:
+    region:
+      static: ap-northeast-2
